@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="built a calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airconditional/Aircondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airconditional/Aircondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AirconditionTest.test_isOn">
+  <component name="RunManager" selected="JUnit.AirconditionTest.test_isoff">
     <configuration name="AirconditionTest.test_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
@@ -73,17 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.test_addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AirconditionTest.test_isoff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calculator.*" />
+          <option name="PATTERN" value="airconditional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="calculator" />
-      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorTest" />
-      <option name="METHOD_NAME" value="test_addTwoNumbers" />
+      <option name="PACKAGE_NAME" value="airconditional" />
+      <option name="MAIN_CLASS_NAME" value="airconditional.AirconditionTest" />
+      <option name="METHOD_NAME" value="test_isoff" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AirconditionTest.test_isoff" />
         <item itemvalue="JUnit.AirconditionTest.test_isOn" />
         <item itemvalue="JUnit.CalculatorTest.test_subtractTwoNumbers" />
         <item itemvalue="JUnit.CalculatorTest.test_divideTwoNumbers" />
         <item itemvalue="JUnit.CalculatorTest.test_multiplyTwoNumbers" />
-        <item itemvalue="JUnit.CalculatorTest.test_addTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="17053000" />
+      <workItem from="1656119406700" duration="17494000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656188268676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="built a calculator">
+      <created>1656196638668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656196638668</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

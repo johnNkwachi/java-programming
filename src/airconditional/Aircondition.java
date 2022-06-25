@@ -12,4 +12,13 @@ public class Aircondition {
         }
         return on;
     }
+
+    public String isOff(String off) throws Exception {
+        if (off == "off") {
+            System.out.println("Ac is off");
+        } else {
+            throw new Exception("Please input 'off'");
+        }
+        return off;
+    }
 }

@@ -23,4 +23,10 @@ public class AirconditionTest {
 
     }
 
-}
+    @Test
+    public void test_isoff() throws Exception {
+        String result = aircondition.isOff("off");
+        Assertions.assertEquals(result, "off");
+    }
+
+    }
