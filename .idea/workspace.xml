@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Printed hello world">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="built a calculator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="11019000" />
+      <workItem from="1656119406700" duration="12747000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656119952071</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="built a calculator">
+      <created>1656183587047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656183587047</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added test file" />
     <MESSAGE value="Printed hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="Printed hello world" />
+    <MESSAGE value="built a calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="built a calculator" />
   </component>
 </project>
