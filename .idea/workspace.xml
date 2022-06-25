@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="AC increase">
-      <change beforePath="$PROJECT_DIR$/src/airconditional/Aircondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airconditional/Aircondition.java" afterDir="false" />
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="AC decrease">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AirconditionTest.test_decreaseTemperature">
+  <component name="RunManager" selected="JUnit.AirconditionTest.test_Temperature">
     <configuration name="AirconditionTest.test_Temperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
@@ -140,8 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AirconditionTest.test_decreaseTemperature" />
         <item itemvalue="JUnit.AirconditionTest.test_Temperature" />
+        <item itemvalue="JUnit.AirconditionTest.test_decreaseTemperature" />
         <item itemvalue="JUnit.AirconditionTest.test_isoff" />
         <item itemvalue="JUnit.AirconditionTest.test_isOn" />
         <item itemvalue="JUnit.CalculatorTest.test_subtractTwoNumbers" />
@@ -156,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="19857000" />
+      <workItem from="1656119406700" duration="21040000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -221,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656199198925</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AC decrease">
+      <created>1656199545022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656199545023</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,21 +251,7 @@
     <MESSAGE value="built a calculator" />
     <MESSAGE value="AC is off" />
     <MESSAGE value="AC increase" />
-    <option name="LAST_COMMIT_MESSAGE" value="AC increase" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/airconditional/AirconditionTest.java</url>
-          <line>32</line>
-          <properties class="airconditional.AirconditionTest" method="test_Temperature">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="AC decrease" />
+    <option name="LAST_COMMIT_MESSAGE" value="AC decrease" />
   </component>
 </project>
