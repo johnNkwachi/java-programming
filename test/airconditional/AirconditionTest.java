@@ -34,4 +34,11 @@ public class AirconditionTest {
         int result = aircondition.increaseTemperature(10);
         Assertions.assertEquals(result, 10);
 
-    }}
+    }
+
+    @Test
+    public void test_decreaseTemperature() throws Exception {
+        int result = aircondition.decreaseTemperature(16);
+        Assertions.assertEquals(result, 16);
+
+}}
