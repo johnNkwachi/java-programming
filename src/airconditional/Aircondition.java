@@ -21,4 +21,15 @@ public class Aircondition {
         }
         return off;
     }
-}
+
+    public int increaseTemperature(int temp) throws Exception {
+        if(temp>30) {
+            throw new Exception("invalid temp");
+        }
+    else{
+            System.out.println("Temperature is: "+ temp);
+        }
+    return temp;
+     }
+    }
+
