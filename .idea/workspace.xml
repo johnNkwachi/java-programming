@@ -51,11 +51,28 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="airconditional" />
       <recent name="calculator" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.test_subtractTwoNumbers">
+  <component name="RunManager" selected="JUnit.AirconditionTest.test_isOn">
+    <configuration name="AirconditionTest.test_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="airconditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="airconditional" />
+      <option name="MAIN_CLASS_NAME" value="airconditional.AirconditionTest" />
+      <option name="METHOD_NAME" value="test_isOn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest.test_addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
@@ -120,23 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldTest.test_printHelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
-      <option name="METHOD_NAME" value="test_printHelloWorld" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AirconditionTest.test_isOn" />
         <item itemvalue="JUnit.CalculatorTest.test_subtractTwoNumbers" />
         <item itemvalue="JUnit.CalculatorTest.test_divideTwoNumbers" />
         <item itemvalue="JUnit.CalculatorTest.test_multiplyTwoNumbers" />
         <item itemvalue="JUnit.CalculatorTest.test_addTwoNumbers" />
-        <item itemvalue="JUnit.HelloWorldTest.test_printHelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="12747000" />
+      <workItem from="1656119406700" duration="17053000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -178,7 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656183587047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="built a calculator">
+      <created>1656188246811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656188246811</updated>
+    </task>
+    <task id="LOCAL-00006" summary="built a calculator">
+      <created>1656188268676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656188268676</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
