@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Bike" />
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Bike">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,19 +57,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BikeTest.test_isoff">
-    <configuration name="AirconditionTest.test_decreaseTemperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.GuessGame">
+    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guessGame.GuessGame" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="airconditional.*" />
+          <option name="PATTERN" value="guessGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="airconditional" />
-      <option name="MAIN_CLASS_NAME" value="airconditional.AirconditionTest" />
-      <option name="METHOD_NAME" value="test_decreaseTemperature" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessGame" />
         <item itemvalue="JUnit.BikeTest.test_isoff" />
         <item itemvalue="JUnit.BikeTest.tet_isOffIsInvalid" />
         <item itemvalue="JUnit.BikeTest.tet_isOn" />
         <item itemvalue="JUnit.BikeTest.tet_isOnIsInvalid" />
-        <item itemvalue="JUnit.AirconditionTest.test_decreaseTemperature" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="39310000" />
+      <workItem from="1656119406700" duration="42160000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -240,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656335091617</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Bike">
+      <created>1656335451311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656335451311</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bike">
+      <created>1656335466487</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656335466487</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
