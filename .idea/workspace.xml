@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Bike on">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/airconditional/Aircondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airconditional/Aircondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Bike" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="38937000" />
+      <workItem from="1656119406700" duration="39310000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -237,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656200615090</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Bike">
+      <created>1656335091617</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656335091617</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +265,7 @@
     <MESSAGE value="AC increase" />
     <MESSAGE value="AC decrease" />
     <MESSAGE value="Bike on" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bike on" />
+    <MESSAGE value="Bike" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bike" />
   </component>
 </project>
