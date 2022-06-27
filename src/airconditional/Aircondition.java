@@ -24,7 +24,8 @@ public class Aircondition {
 
     public int increaseTemperature(int temp) throws Exception {
         if(temp>30) {
-            throw new Exception("invalid temp");
+//            throw new Exception("invalid temp");
+            temp = 30;
         }
     else{
             System.out.println("Temperature is: "+ temp);
@@ -34,7 +35,8 @@ public class Aircondition {
 
     public int decreaseTemperature(int temp) throws Exception {
         if(temp>16) {
-            throw new Exception("invalid temp");
+    //        throw new Exception("invalid temp");
+            temp = 16;
         }
         else{
             System.out.println("Temperature is: "+ temp);

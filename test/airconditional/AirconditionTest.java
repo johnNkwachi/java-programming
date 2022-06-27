@@ -30,7 +30,7 @@ public class AirconditionTest {
     }
 
     @Test
-    public void test_Temperature() throws Exception {
+    public void test_increaseTemperature() throws Exception {
         int result = aircondition.increaseTemperature(18);
         Assertions.assertEquals(result, 18);
 

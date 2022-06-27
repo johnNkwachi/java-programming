@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="AC decrease">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Bike on">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airconditional/Aircondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airconditional/Aircondition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/airconditional/AirconditionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,28 +53,13 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bike" />
       <recent name="airconditional" />
       <recent name="calculator" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AirconditionTest.test_Temperature">
-    <configuration name="AirconditionTest.test_Temperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="airconditional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="airconditional" />
-      <option name="MAIN_CLASS_NAME" value="airconditional.AirconditionTest" />
-      <option name="METHOD_NAME" value="test_Temperature" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.BikeTest.test_isoff">
     <configuration name="AirconditionTest.test_decreaseTemperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
@@ -90,49 +76,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirconditionTest.test_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.test_isoff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="airconditional.*" />
+          <option name="PATTERN" value="bike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="airconditional" />
-      <option name="MAIN_CLASS_NAME" value="airconditional.AirconditionTest" />
-      <option name="METHOD_NAME" value="test_isOn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AirconditionTest.test_isoff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="airconditional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="airconditional" />
-      <option name="MAIN_CLASS_NAME" value="airconditional.AirconditionTest" />
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
       <option name="METHOD_NAME" value="test_isoff" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.test_subtractTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.tet_isOffIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calculator.*" />
+          <option name="PATTERN" value="bike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="calculator" />
-      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorTest" />
-      <option name="METHOD_NAME" value="test_subtractTwoNumbers" />
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="tet_isOffIsInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.tet_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="tet_isOn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.tet_isOnIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="tet_isOnIsInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AirconditionTest.test_Temperature" />
+        <item itemvalue="JUnit.BikeTest.test_isoff" />
+        <item itemvalue="JUnit.BikeTest.tet_isOffIsInvalid" />
+        <item itemvalue="JUnit.BikeTest.tet_isOn" />
+        <item itemvalue="JUnit.BikeTest.tet_isOnIsInvalid" />
         <item itemvalue="JUnit.AirconditionTest.test_decreaseTemperature" />
-        <item itemvalue="JUnit.AirconditionTest.test_isoff" />
-        <item itemvalue="JUnit.AirconditionTest.test_isOn" />
-        <item itemvalue="JUnit.CalculatorTest.test_subtractTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="21040000" />
+      <workItem from="1656119406700" duration="38937000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -228,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656199545023</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="AC decrease">
+      <created>1656200615090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656200615090</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +261,7 @@
     <MESSAGE value="AC is off" />
     <MESSAGE value="AC increase" />
     <MESSAGE value="AC decrease" />
-    <option name="LAST_COMMIT_MESSAGE" value="AC decrease" />
+    <MESSAGE value="Bike on" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bike on" />
   </component>
 </project>
