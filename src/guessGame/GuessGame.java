@@ -12,13 +12,16 @@ Scanner input = new Scanner(System.in);
 
             if(number == 50){
                 System.out.println("You are correct");
+                System.out.println("Congratulation");
             }
             if(number > 50){
                 System.out.println("You are wrong");
+                System.out.println("Please try again");
             }
 
             if(number < 50){
                 System.out.println("Number too small");
+                System.out.println(" Please Try Again");
             }
 
 

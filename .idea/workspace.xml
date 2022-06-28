@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Bike">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="guessGame">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guessGame/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessGame/GuessGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -51,85 +53,89 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="oop" />
+      <recent name="vehicle" />
       <recent name="bike" />
       <recent name="airconditional" />
       <recent name="calculator" />
-      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GuessGame">
-    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guessGame.GuessGame" />
+  <component name="RunManager" selected="JUnit.ChildTest.test_ChildName">
+    <configuration name="ChildTest.test_ChildName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="guessGame.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BikeTest.test_isoff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bike.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bike" />
-      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="test_isoff" />
+      <option name="PACKAGE_NAME" value="oop" />
+      <option name="MAIN_CLASS_NAME" value="oop.ChildTest" />
+      <option name="METHOD_NAME" value="test_ChildName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.tet_isOffIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MotorTest.test_getAndSetBrake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bike.*" />
+          <option name="PATTERN" value="vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bike" />
-      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="tet_isOffIsInvalid" />
+      <option name="PACKAGE_NAME" value="vehicle" />
+      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
+      <option name="METHOD_NAME" value="test_getAndSetBrake" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.tet_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MotorTest.test_getAndSetBrand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bike.*" />
+          <option name="PATTERN" value="vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bike" />
-      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="tet_isOn" />
+      <option name="PACKAGE_NAME" value="vehicle" />
+      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
+      <option name="METHOD_NAME" value="test_getAndSetBrand" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.tet_isOnIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MotorTest.test_getAndSetPlateNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bike.*" />
+          <option name="PATTERN" value="vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bike" />
-      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="tet_isOnIsInvalid" />
+      <option name="PACKAGE_NAME" value="vehicle" />
+      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
+      <option name="METHOD_NAME" value="test_getAndSetPlateNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorTest.test_getAndSetcolor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vehicle" />
+      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
+      <option name="METHOD_NAME" value="test_getAndSetcolor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GuessGame" />
-        <item itemvalue="JUnit.BikeTest.test_isoff" />
-        <item itemvalue="JUnit.BikeTest.tet_isOffIsInvalid" />
-        <item itemvalue="JUnit.BikeTest.tet_isOn" />
-        <item itemvalue="JUnit.BikeTest.tet_isOnIsInvalid" />
+        <item itemvalue="JUnit.ChildTest.test_ChildName" />
+        <item itemvalue="JUnit.MotorTest.test_getAndSetBrake" />
+        <item itemvalue="JUnit.MotorTest.test_getAndSetcolor" />
+        <item itemvalue="JUnit.MotorTest.test_getAndSetPlateNumber" />
+        <item itemvalue="JUnit.MotorTest.test_getAndSetBrand" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656119405275</updated>
-      <workItem from="1656119406700" duration="42160000" />
+      <workItem from="1656119406700" duration="51399000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -253,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656335466487</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="guessGame">
+      <created>1656338518619</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656338518619</updated>
+    </task>
+    <task id="LOCAL-00016" summary="guessGame">
+      <created>1656338578180</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656338578180</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +299,7 @@
     <MESSAGE value="AC decrease" />
     <MESSAGE value="Bike on" />
     <MESSAGE value="Bike" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bike" />
+    <MESSAGE value="guessGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="guessGame" />
   </component>
 </project>
