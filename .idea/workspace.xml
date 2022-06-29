@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="motor code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="While loop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +155,7 @@
       <updated>1656119405275</updated>
       <workItem from="1656119406700" duration="56981000" />
       <workItem from="1656470470757" duration="21000" />
+      <workItem from="1656518974651" duration="522000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -284,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656392607160</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="While loop">
+      <created>1656519115786</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656519115786</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +318,7 @@
     <MESSAGE value="Bike" />
     <MESSAGE value="guessGame" />
     <MESSAGE value="motor code" />
-    <option name="LAST_COMMIT_MESSAGE" value="motor code" />
+    <MESSAGE value="While loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="While loop" />
   </component>
 </project>
