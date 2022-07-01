@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="While loop" />
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="While loop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mobilFillingStation/MobilFillingStationDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mobilFillingStation/MobilFillingStationDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/WhileLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/WhileLoopPractice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -50,14 +54,40 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="mobilFillingStation" />
       <recent name="oop" />
       <recent name="vehicle" />
       <recent name="bike" />
       <recent name="airconditional" />
-      <recent name="calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhileLoopPractice">
+  <component name="RunManager" selected="Application.MobilFillingStationDiscountTest">
+    <configuration name="MobilFillingStationDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mobilFillingStation.MobilFillingStationDiscount" />
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mobilFillingStation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobilFillingStationDiscountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mobilFillingStation.MobilFillingStationDiscountTest" />
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mobilFillingStation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileLoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.WhileLoopPractice" />
       <module name="Java programming" />
@@ -103,45 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorTest.test_getAndSetBrake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vehicle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
-      <option name="METHOD_NAME" value="test_getAndSetBrake" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MotorTest.test_getAndSetcolor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vehicle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
-      <option name="METHOD_NAME" value="test_getAndSetcolor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MobilFillingStationDiscountTest" />
         <item itemvalue="Application.WhileLoopPractice" />
+        <item itemvalue="Application.MobilFillingStationDiscount" />
         <item itemvalue="JUnit.AirconditionTest.test_isOn" />
         <item itemvalue="JUnit.ChildTest.test_ChildName" />
-        <item itemvalue="JUnit.MotorTest.test_getAndSetBrake" />
-        <item itemvalue="JUnit.MotorTest.test_getAndSetcolor" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +153,8 @@
       <updated>1656119405275</updated>
       <workItem from="1656119406700" duration="56981000" />
       <workItem from="1656470470757" duration="21000" />
-      <workItem from="1656518974651" duration="522000" />
+      <workItem from="1656518974651" duration="5963000" />
+      <workItem from="1656624779289" duration="9985000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -290,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656519115786</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="While loop">
+      <created>1656519562813</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656519562814</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

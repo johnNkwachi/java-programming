@@ -6,22 +6,16 @@ public class WhileLoopPractice {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
 
-        int total = 0;
-        int gradeCounter = 1;
 
-        while (gradeCounter <= 10);
+        int count;
 
-        System.out.println("Enter Number: ");
-        int grade = input.nextInt();
-
-        total = total + grade; // add grade to total
-        gradeCounter = gradeCounter + 1;
-
-        int average = total / 10;
-
-        System.out.printf("%nTotal of all 10 grades is %d%n", total);
-        System.out.printf("Class average is %d%n", average);
+        for (count = 1; count <= 10; count++) { // loop 10 times
+            if (count == 5) {
+                break; // terminates loop if count is 5
+            }
+            System.out.printf("%d ", count);
+        }
+        System.out.printf("%nBroke out of loop at count = %d%n", count);
     }
 }
