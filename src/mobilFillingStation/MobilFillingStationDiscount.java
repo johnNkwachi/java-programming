@@ -31,5 +31,6 @@ public class MobilFillingStationDiscount{
         System.out.printf("cost in %s filling station is  %d, naira", name, amount);
         return amount;
     }
+
 }
 
