@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="asterik">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="gradeRecord">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +151,7 @@
       <workItem from="1656518974651" duration="5963000" />
       <workItem from="1656624779289" duration="12691000" />
       <workItem from="1656767959345" duration="38892000" />
-      <workItem from="1656891562479" duration="6943000" />
+      <workItem from="1656891562479" duration="9779000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656954307228</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="gradeRecord">
+      <created>1656968198999</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656968198999</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +346,7 @@
     <MESSAGE value="fillingStationDiscount" />
     <MESSAGE value="loop" />
     <MESSAGE value="asterik" />
-    <option name="LAST_COMMIT_MESSAGE" value="asterik" />
+    <MESSAGE value="gradeRecord" />
+    <option name="LAST_COMMIT_MESSAGE" value="gradeRecord" />
   </component>
 </project>
