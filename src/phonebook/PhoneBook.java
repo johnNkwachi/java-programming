@@ -11,7 +11,7 @@ public class PhoneBook {
         String name[] = new String[SIZE];
         String address[] = new String[SIZE];
         String telephone[] = new String[SIZE];
-        String emial[] = new String[SIZE];
+        String email[] = new String[SIZE];
 
         System.out.println("Enter " + SIZE + "name address telephone and email");
 
@@ -23,7 +23,7 @@ public class PhoneBook {
             System.out.print("telephone: ");
             telephone[i] = scanner.nextLine();
             System.out.print("email: ");
-            emial[i]  = scanner.nextLine();
+            email[i]  = scanner.nextLine();
             scanner.nextLine();
 
         }
