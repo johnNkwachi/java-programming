@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="multiplicationTable">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="arraywork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phonebook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phonebook/PhoneBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +62,13 @@
       <recent name="mobilFillingStation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UserInput">
-    <configuration name="ArrayBackDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeven.ArrayBackDisplay" />
+  <component name="RunManager" selected="Application.Diary">
+    <configuration name="Diary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.diary.Diary" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterSeven.*" />
+          <option name="PATTERN" value="com.assignment.diary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,19 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayClassWork" />
+    <configuration name="GroceryListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroceryListMain" />
       <module name="Java programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayExcerse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeven.ArrayExcerse" />
+    <configuration name="GroceryStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eRetailStore.GroceryStore" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterSeven.*" />
+          <option name="PATTERN" value="eRetailStore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoOFScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeven.NoOFScores" />
+    <configuration name="MayerBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mayers.MayerBridge" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterSeven.*" />
+          <option name="PATTERN" value="com.mayers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeven.UserInput" />
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterSeven.TwoDimensionalArray" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserInput" />
-        <item itemvalue="Application.NoOFScores" />
-        <item itemvalue="Application.ArrayClassWork" />
-        <item itemvalue="Application.ArrayBackDisplay" />
-        <item itemvalue="Application.ArrayExcerse" />
+        <item itemvalue="Application.Diary" />
+        <item itemvalue="Application.GroceryStore" />
+        <item itemvalue="Application.GroceryListMain" />
+        <item itemvalue="Application.MayerBridge" />
+        <item itemvalue="Application.TwoDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +152,8 @@
       <workItem from="1658150752100" duration="2792000" />
       <workItem from="1658251741829" duration="599000" />
       <workItem from="1658365273529" duration="21186000" />
+      <workItem from="1658513788183" duration="37687000" />
+      <workItem from="1658748656352" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -357,7 +358,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658150856567</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="noscores">
+      <created>1658513830282</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1658513830282</updated>
+    </task>
+    <task id="LOCAL-00031" summary="arraywork">
+      <created>1658514014082</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1658514014082</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +409,9 @@
     <MESSAGE value="comparing numbers" />
     <MESSAGE value="grocery" />
     <MESSAGE value="multiplicationTable" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiplicationTable" />
+    <MESSAGE value="noscores" />
+    <MESSAGE value="arraywork" />
+    <option name="LAST_COMMIT_MESSAGE" value="arraywork" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -407,6 +424,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///usr/lib/jvm/jdk-18/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>254</line>
+          <properties class="java.lang.Object" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
