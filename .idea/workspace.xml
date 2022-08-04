@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="arraywork">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="diary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,20 +55,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="LoanMoney" />
+      <recent name="chapterSeven" />
+      <recent name="com" />
+      <recent name="com.account" />
       <recent name="eRetailStore" />
-      <recent name="" />
-      <recent name="bankAccount" />
-      <recent name="testDrillerAssignment" />
-      <recent name="mobilFillingStation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Diary">
-    <configuration name="Diary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.diary.Diary" />
+  <component name="RunManager" selected="Application.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.AnimalTest" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assignment.diary.*" />
+          <option name="PATTERN" value="Com.OOP.Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroceryListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroceryListMain" />
-      <module name="Java programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroceryStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eRetailStore.GroceryStore" />
+    <configuration name="LoanMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoney" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eRetailStore.*" />
+          <option name="PATTERN" value="LoanMoney.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,39 +89,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MayerBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mayers.MayerBridge" />
+    <configuration name="LoanMoneyTest.checkLoanAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mayers.*" />
+          <option name="PATTERN" value="LoanMoney.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="LoanMoney" />
+      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoneyTest" />
+      <option name="METHOD_NAME" value="checkLoanAmount" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeven.TwoDimensionalArray" />
+    <configuration name="LoanMoneyTest.getAnnualInterestRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterSeven.*" />
+          <option name="PATTERN" value="LoanMoney.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="LoanMoney" />
+      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoneyTest" />
+      <option name="METHOD_NAME" value="getAnnualInterestRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanMoneyTest.testPayBackAfterYears" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoanMoney.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LoanMoney" />
+      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoneyTest" />
+      <option name="METHOD_NAME" value="testPayBackAfterYears" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Diary" />
-        <item itemvalue="Application.GroceryStore" />
-        <item itemvalue="Application.GroceryListMain" />
-        <item itemvalue="Application.MayerBridge" />
-        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.LoanMoney" />
+        <item itemvalue="JUnit.LoanMoneyTest.getAnnualInterestRate" />
+        <item itemvalue="JUnit.LoanMoneyTest.testPayBackAfterYears" />
+        <item itemvalue="JUnit.LoanMoneyTest.checkLoanAmount" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +169,11 @@
       <workItem from="1658365273529" duration="21186000" />
       <workItem from="1658513788183" duration="37687000" />
       <workItem from="1658748656352" duration="686000" />
+      <workItem from="1658782158631" duration="40359000" />
+      <workItem from="1659142838065" duration="5737000" />
+      <workItem from="1659302850811" duration="278000" />
+      <workItem from="1659398922364" duration="2834000" />
+      <workItem from="1659475545693" duration="19871000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -372,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658514014082</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="diary">
+      <created>1658782324038</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1658782324038</updated>
+    </task>
+    <task id="LOCAL-00033" summary="diary">
+      <created>1658783552098</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1658783552098</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +445,8 @@
     <MESSAGE value="multiplicationTable" />
     <MESSAGE value="noscores" />
     <MESSAGE value="arraywork" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraywork" />
+    <MESSAGE value="diary" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
