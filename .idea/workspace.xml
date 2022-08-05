@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Inheritance Animal" />
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Inheritance Animal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/Dog.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +17,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,16 +65,16 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Com.OOP.Programs" />
       <recent name="LoanMoney" />
       <recent name="chapterSeven" />
       <recent name="com" />
       <recent name="com.account" />
-      <recent name="eRetailStore" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTest">
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.AnimalTest" />
+  <component name="RunManager" selected="JUnit.CourseTest.addStudentsToTheCourse">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.Main" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
@@ -74,62 +86,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoanMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoney" />
+    <configuration name="CourseTest.addStudentsToTheCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoanMoney.*" />
+          <option name="PATTERN" value="Com.OOP.Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoanMoneyTest.checkLoanAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LoanMoney.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LoanMoney" />
-      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoneyTest" />
-      <option name="METHOD_NAME" value="checkLoanAmount" />
+      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
+      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
+      <option name="METHOD_NAME" value="addStudentsToTheCourse" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoanMoneyTest.getAnnualInterestRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CourseTest.getCourseName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoanMoney.*" />
+          <option name="PATTERN" value="Com.OOP.Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LoanMoney" />
-      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoneyTest" />
-      <option name="METHOD_NAME" value="getAnnualInterestRate" />
+      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
+      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
+      <option name="METHOD_NAME" value="getCourseName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoanMoneyTest.testPayBackAfterYears" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CourseTest.getCourseName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoanMoney.*" />
+          <option name="PATTERN" value="Com.OOP.Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LoanMoney" />
-      <option name="MAIN_CLASS_NAME" value="LoanMoney.LoanMoneyTest" />
-      <option name="METHOD_NAME" value="testPayBackAfterYears" />
+      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
+      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
+      <option name="METHOD_NAME" value="getCourseName2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTest.getStudentsDuringTheCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.OOP.Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
+      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
+      <option name="METHOD_NAME" value="getStudentsDuringTheCourse" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimalTest" />
-        <item itemvalue="Application.LoanMoney" />
-        <item itemvalue="JUnit.LoanMoneyTest.getAnnualInterestRate" />
-        <item itemvalue="JUnit.LoanMoneyTest.testPayBackAfterYears" />
-        <item itemvalue="JUnit.LoanMoneyTest.checkLoanAmount" />
+        <item itemvalue="JUnit.CourseTest.addStudentsToTheCourse" />
+        <item itemvalue="JUnit.CourseTest.getStudentsDuringTheCourse" />
+        <item itemvalue="JUnit.CourseTest.getCourseName2" />
+        <item itemvalue="JUnit.CourseTest.getCourseName" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +186,8 @@
       <workItem from="1659142838065" duration="5737000" />
       <workItem from="1659302850811" duration="278000" />
       <workItem from="1659398922364" duration="2834000" />
-      <workItem from="1659475545693" duration="20212000" />
+      <workItem from="1659475545693" duration="20881000" />
+      <workItem from="1659627190698" duration="15727000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -418,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659623678001</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Inheritance Animal">
+      <created>1659624392464</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1659624392464</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

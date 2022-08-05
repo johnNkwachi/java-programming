@@ -1,37 +1,37 @@
 package Com.OOP.Programs;
 
 public class Animal {
-    private String walk;
-    private String eat;
-    private String bark;
+    private String name;
+    private String hunger;
+    private String age;
 
-    public Animal(String eat, String bark, String walk){
-        this.eat = eat;
-        this.bark = bark;
-        this.walk = walk;
+    public Animal(String name, String hunger, String age) {
+        this.name = name;
+        this.hunger = hunger;
+        this.age = age;
     }
 
-    public String getWalk() {
-        return walk;
+    public String getName() {
+        return name;
     }
 
-    public void setWalk(String walk) {
-        this.walk = walk;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getEat() {
-        return eat;
+    public String getHunger() {
+        return hunger;
     }
 
-    public void setEat(String eat) {
-        this.eat = eat;
+    public void setHunger(String hunger) {
+        this.hunger = hunger;
     }
 
-    public String getBark() {
-        return bark;
+    public String getAge() {
+        return age;
     }
 
-    public void setBark(String bark) {
-        this.bark = bark;
+    public void setAge(String age) {
+        this.age = age;
     }
 }

@@ -1,10 +1,10 @@
 package Com.OOP.Programs;
 
 public class Dog extends Animal{
-    private String sleep;
+    private String bark;
 
-    public Dog(String eat, String bark, String walk, String sleep) {
-        super(eat, bark, walk);
-        this.sleep = sleep;
+    public Dog(String name, String hunger, String age, String bark) {
+        super(name, hunger, age);
+        this.bark = bark;
     }
 }
