@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="Inheritance Animal">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="commissionEmployee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Com/OOP/Programs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/OOP/Programs/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -57,7 +53,8 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -65,20 +62,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.car" />
+      <recent name="dataStructure" />
+      <recent name="com.Duck" />
       <recent name="Com.OOP.Programs" />
       <recent name="LoanMoney" />
-      <recent name="chapterSeven" />
-      <recent name="com" />
-      <recent name="com.account" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CourseTest.addStudentsToTheCourse">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.Main" />
+  <component name="RunManager" selected="Application.ArraySorting">
+    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.sorting.ArraySorting" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.OOP.Programs.*" />
+          <option name="PATTERN" value="array.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,65 +83,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTest.addStudentsToTheCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuotientWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.QuotientWithException" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.OOP.Programs.*" />
+          <option name="PATTERN" value="exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
-      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
-      <option name="METHOD_NAME" value="addStudentsToTheCourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.newListIsEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructure" />
+      <option name="MAIN_CLASS_NAME" value="dataStructure.ArrayListTest" />
+      <option name="METHOD_NAME" value="newListIsEmptyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTest.getCourseName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CarTest.toCheckDiscountOf_A_Car" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.OOP.Programs.*" />
+          <option name="PATTERN" value="com.car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
-      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
-      <option name="METHOD_NAME" value="getCourseName" />
+      <option name="PACKAGE_NAME" value="com.car" />
+      <option name="MAIN_CLASS_NAME" value="com.car.CarTest" />
+      <option name="METHOD_NAME" value="toCheckDiscountOf_A_Car" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTest.getCourseName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DuckTest.duckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.OOP.Programs.*" />
+          <option name="PATTERN" value="com.Duck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
-      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
-      <option name="METHOD_NAME" value="getCourseName2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseTest.getStudentsDuringTheCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Com.OOP.Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Com.OOP.Programs" />
-      <option name="MAIN_CLASS_NAME" value="Com.OOP.Programs.CourseTest" />
-      <option name="METHOD_NAME" value="getStudentsDuringTheCourse" />
+      <option name="PACKAGE_NAME" value="com.Duck" />
+      <option name="MAIN_CLASS_NAME" value="com.Duck.DuckTest" />
+      <option name="METHOD_NAME" value="duckTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CourseTest.addStudentsToTheCourse" />
-        <item itemvalue="JUnit.CourseTest.getStudentsDuringTheCourse" />
-        <item itemvalue="JUnit.CourseTest.getCourseName2" />
-        <item itemvalue="JUnit.CourseTest.getCourseName" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="JUnit.CarTest.toCheckDiscountOf_A_Car" />
+        <item itemvalue="JUnit.ArrayListTest.newListIsEmptyTest" />
+        <item itemvalue="JUnit.DuckTest.duckTest" />
+        <item itemvalue="Application.QuotientWithException" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +181,10 @@
       <workItem from="1659302850811" duration="278000" />
       <workItem from="1659398922364" duration="2834000" />
       <workItem from="1659475545693" duration="20881000" />
-      <workItem from="1659627190698" duration="15727000" />
+      <workItem from="1659627190698" duration="27411000" />
+      <workItem from="1659819489754" duration="7935000" />
+      <workItem from="1660081627496" duration="12131000" />
+      <workItem from="1660163549858" duration="15432000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -441,7 +438,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659624392464</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Inheritance Animal">
+      <created>1659705490772</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1659705490772</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commissionEmployee">
+      <created>1659705695724</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1659705695724</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +493,8 @@
     <MESSAGE value="arraywork" />
     <MESSAGE value="diary" />
     <MESSAGE value="Inheritance Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Animal" />
+    <MESSAGE value="commissionEmployee" />
+    <option name="LAST_COMMIT_MESSAGE" value="commissionEmployee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
