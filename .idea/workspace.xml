@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="array">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="shuffling array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/sorting/SortingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/sorting/SortingArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +12,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -27,6 +27,9 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///usr/lib/jvm/jdk-18/lib/src.zip!/java.base/java/io/UnixFileSystem.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,84 +62,95 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com" />
+      <recent name="array" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.car" />
+      <recent name="com" />
+      <recent name="WeekendSnacks" />
+      <recent name="ChapterThree" />
       <recent name="dataStructure" />
-      <recent name="com.Duck" />
-      <recent name="Com.OOP.Programs" />
-      <recent name="LoanMoney" />
+      <recent name="com.car" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Random">
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.sorting.ArraySorting" />
+  <component name="RunManager" selected="JUnit.TurtleTest.turtleCanMovePenUp">
+    <configuration name="AirConditionalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.sorting.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AirConditionalTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.sorting.Random" />
+    <configuration name="AirConditionalTest.checkThatAcCannotDecreasedBelow16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.sorting.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.sorting.SortingArray" />
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListTest.newListIsEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataStructure" />
-      <option name="MAIN_CLASS_NAME" value="dataStructure.ArrayListTest" />
-      <option name="METHOD_NAME" value="newListIsEmptyTest" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AirConditionalTest" />
+      <option name="METHOD_NAME" value="checkThatAcCannotDecreasedBelow16" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest.toCheckDiscountOf_A_Car" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AirConditionalTest.testThatAcCannnotIncreaseMoreThan30" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.car.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.car" />
-      <option name="MAIN_CLASS_NAME" value="com.car.CarTest" />
-      <option name="METHOD_NAME" value="toCheckDiscountOf_A_Car" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AirConditionalTest" />
+      <option name="METHOD_NAME" value="testThatAcCannnotIncreaseMoreThan30" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest.turtleCanMovePenUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
+      <option name="METHOD_NAME" value="turtleCanMovePenUp" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Random" />
-        <item itemvalue="Application.SortingArray" />
-        <item itemvalue="Application.ArraySorting" />
-        <item itemvalue="JUnit.CarTest.toCheckDiscountOf_A_Car" />
-        <item itemvalue="JUnit.ArrayListTest.newListIsEmptyTest" />
+        <item itemvalue="JUnit.TurtleTest.turtleCanMovePenUp" />
+        <item itemvalue="JUnit.AirConditionalTest" />
+        <item itemvalue="JUnit.AirConditionalTest.checkThatAcCannotDecreasedBelow16" />
+        <item itemvalue="JUnit.AirConditionalTest.testThatAcCannnotIncreaseMoreThan30" />
+        <item itemvalue="JUnit.TurtleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +196,26 @@
       <workItem from="1659627190698" duration="27411000" />
       <workItem from="1659819489754" duration="7935000" />
       <workItem from="1660081627496" duration="12131000" />
-      <workItem from="1660163549858" duration="21056000" />
+      <workItem from="1660163549858" duration="22743000" />
+      <workItem from="1660477830859" duration="12433000" />
+      <workItem from="1660513429795" duration="4274000" />
+      <workItem from="1660821604224" duration="5526000" />
+      <workItem from="1660925938591" duration="18706000" />
+      <workItem from="1661033529411" duration="6140000" />
+      <workItem from="1661097016919" duration="9587000" />
+      <workItem from="1661136973021" duration="2205000" />
+      <workItem from="1661191840186" duration="8097000" />
+      <workItem from="1661266637369" duration="1719000" />
+      <workItem from="1661354388385" duration="218000" />
+      <workItem from="1661354626619" duration="3784000" />
+      <workItem from="1661369974612" duration="19149000" />
+      <workItem from="1661416883688" duration="2097000" />
+      <workItem from="1661438425695" duration="6022000" />
+      <workItem from="1661523339547" duration="9207000" />
+      <workItem from="1661876092862" duration="806000" />
+      <workItem from="1661877872803" duration="5827000" />
+      <workItem from="1661988418245" duration="15218000" />
+      <workItem from="1662098129552" duration="9931000" />
     </task>
     <task id="LOCAL-00001" summary="added test file">
       <created>1656119595886</created>
@@ -485,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660238940231</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="shuffling array">
+      <created>1660246759134</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1660246759134</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="built a calculator" />
     <MESSAGE value="AC is off" />
     <MESSAGE value="AC increase" />
     <MESSAGE value="AC decrease" />
@@ -528,7 +567,8 @@
     <MESSAGE value="arraySorting" />
     <MESSAGE value="composition" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="shuffling array" />
+    <option name="LAST_COMMIT_MESSAGE" value="shuffling array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
