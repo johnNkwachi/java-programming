@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="shuffling array">
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="arithmetic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,50 +77,29 @@
       <recent name="com.car" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TurtleTest.turtleCanMovePenUp">
-    <configuration name="AirConditionalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Asterik">
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopAssignment.ArrayPractice" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="loopAssignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.AirConditionalTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirConditionalTest.checkThatAcCannotDecreasedBelow16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Asterik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="asterik.Asterik" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="asterik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.AirConditionalTest" />
-      <option name="METHOD_NAME" value="checkThatAcCannotDecreasedBelow16" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AirConditionalTest.testThatAcCannnotIncreaseMoreThan30" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.AirConditionalTest" />
-      <option name="METHOD_NAME" value="testThatAcCannnotIncreaseMoreThan30" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,6 +115,22 @@
       <option name="PACKAGE_NAME" value="com" />
       <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest.turtleCanMovePenDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
+      <option name="METHOD_NAME" value="turtleCanMovePenDown" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TurtleTest.turtleCanMovePenUp" />
-        <item itemvalue="JUnit.AirConditionalTest" />
-        <item itemvalue="JUnit.AirConditionalTest.checkThatAcCannotDecreasedBelow16" />
-        <item itemvalue="JUnit.AirConditionalTest.testThatAcCannnotIncreaseMoreThan30" />
+        <item itemvalue="Application.Asterik" />
+        <item itemvalue="Application.ArrayPractice" />
         <item itemvalue="JUnit.TurtleTest" />
+        <item itemvalue="JUnit.TurtleTest.turtleCanMovePenUp" />
+        <item itemvalue="JUnit.TurtleTest.turtleCanMovePenDown" />
       </list>
     </recent_temporary>
   </component>
@@ -215,21 +210,8 @@
       <workItem from="1661876092862" duration="806000" />
       <workItem from="1661877872803" duration="5827000" />
       <workItem from="1661988418245" duration="15218000" />
-      <workItem from="1662098129552" duration="9931000" />
-    </task>
-    <task id="LOCAL-00001" summary="added test file">
-      <created>1656119595886</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1656119595886</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added test file">
-      <created>1656119925858</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1656119925858</updated>
+      <workItem from="1662098129552" duration="11325000" />
+      <workItem from="1662243465919" duration="9274000" />
     </task>
     <task id="LOCAL-00003" summary="Printed hello world">
       <created>1656119952071</created>
@@ -525,7 +507,56 @@
       <option name="project" value="LOCAL" />
       <updated>1660246759134</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="AC">
+      <created>1662141286180</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141286180</updated>
+    </task>
+    <task id="LOCAL-00046" summary="AC">
+      <created>1662141515201</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141515201</updated>
+    </task>
+    <task id="LOCAL-00047" summary="BIKE">
+      <created>1662141542387</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141542387</updated>
+    </task>
+    <task id="LOCAL-00048" summary="CAR">
+      <created>1662141654090</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141654090</updated>
+    </task>
+    <task id="LOCAL-00049" summary="ARRAYLIST">
+      <created>1662141690655</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141690655</updated>
+    </task>
+    <task id="LOCAL-00050" summary="TV">
+      <created>1662141796026</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141796028</updated>
+    </task>
+    <task id="LOCAL-00051" summary="arithmetic">
+      <created>1662141941003</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141941003</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,12 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AC is off" />
-    <MESSAGE value="AC increase" />
-    <MESSAGE value="AC decrease" />
-    <MESSAGE value="Bike on" />
-    <MESSAGE value="Bike" />
-    <MESSAGE value="guessGame" />
     <MESSAGE value="motor code" />
     <MESSAGE value="While loop" />
     <MESSAGE value="fillingStationDiscount" />
@@ -568,7 +593,13 @@
     <MESSAGE value="composition" />
     <MESSAGE value="array" />
     <MESSAGE value="shuffling array" />
-    <option name="LAST_COMMIT_MESSAGE" value="shuffling array" />
+    <MESSAGE value="AC" />
+    <MESSAGE value="BIKE" />
+    <MESSAGE value="CAR" />
+    <MESSAGE value="ARRAYLIST" />
+    <MESSAGE value="TV" />
+    <MESSAGE value="arithmetic" />
+    <option name="LAST_COMMIT_MESSAGE" value="arithmetic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
