@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="arithmetic">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16e5ee27-4868-4820-a601-cd569e0fc73f" name="Changes" comment="fuelDiscount" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,23 +11,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar:///usr/lib/jvm/jdk-18/lib/src.zip!/java.base/java/io/UnixFileSystem.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,25 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/home/johnnaas/IdeaProjects/Java programming",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com" />
@@ -70,20 +68,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ChapterThree" />
       <recent name="com" />
       <recent name="WeekendSnacks" />
-      <recent name="ChapterThree" />
       <recent name="dataStructure" />
       <recent name="com.car" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Asterik">
-    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopAssignment.ArrayPractice" />
+  <component name="RunManager" selected="Application.IntroToFiles">
+    <configuration name="IntPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterFour.IntPalindrome" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loopAssignment.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Asterik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="asterik.Asterik" />
+    <configuration name="IntroToFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.IntroToFiles" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="asterik.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,60 +102,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterThree.LeapYear" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="ChapterThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurtleTest.turtleCanMovePenDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter14.StringMethod" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="Chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
-      <option name="METHOD_NAME" value="turtleCanMovePenDown" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurtleTest.turtleCanMovePenUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterThree.TwoSum" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="ChapterThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.TurtleTest" />
-      <option name="METHOD_NAME" value="turtleCanMovePenUp" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Asterik" />
-        <item itemvalue="Application.ArrayPractice" />
-        <item itemvalue="JUnit.TurtleTest" />
-        <item itemvalue="JUnit.TurtleTest.turtleCanMovePenUp" />
-        <item itemvalue="JUnit.TurtleTest.turtleCanMovePenDown" />
+        <item itemvalue="Application.IntroToFiles" />
+        <item itemvalue="Application.StringMethod" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.IntPalindrome" />
+        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -211,14 +201,16 @@
       <workItem from="1661877872803" duration="5827000" />
       <workItem from="1661988418245" duration="15218000" />
       <workItem from="1662098129552" duration="11325000" />
-      <workItem from="1662243465919" duration="9274000" />
-    </task>
-    <task id="LOCAL-00003" summary="Printed hello world">
-      <created>1656119952071</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1656119952071</updated>
+      <workItem from="1662243465919" duration="10047000" />
+      <workItem from="1662534473012" duration="3889000" />
+      <workItem from="1662584645888" duration="17074000" />
+      <workItem from="1662737047596" duration="330000" />
+      <workItem from="1662737436531" duration="2659000" />
+      <workItem from="1662758329297" duration="19306000" />
+      <workItem from="1662834359291" duration="1443000" />
+      <workItem from="1662894773556" duration="2734000" />
+      <workItem from="1662978320248" duration="6156000" />
+      <workItem from="1663169221567" duration="27000" />
     </task>
     <task id="LOCAL-00004" summary="built a calculator">
       <created>1656183587047</created>
@@ -556,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662141941003</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="course">
+      <created>1662409856913</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1662409856914</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="motor code" />
     <MESSAGE value="While loop" />
     <MESSAGE value="fillingStationDiscount" />
     <MESSAGE value="loop" />
@@ -599,7 +597,8 @@
     <MESSAGE value="ARRAYLIST" />
     <MESSAGE value="TV" />
     <MESSAGE value="arithmetic" />
-    <option name="LAST_COMMIT_MESSAGE" value="arithmetic" />
+    <MESSAGE value="course" />
+    <option name="LAST_COMMIT_MESSAGE" value="course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -616,7 +615,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>jar:///usr/lib/jvm/jdk-18/lib/src.zip!/java.base/java/lang/Object.java</url>
           <line>254</line>
-          <properties class="java.lang.Object" method="toString">
+          <properties class="java.lang.Object">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -624,5 +623,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
