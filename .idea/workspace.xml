@@ -28,6 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Downloads/zulu18.32.13-ca-jdk18.0.2.1-linux_x64/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -76,7 +79,7 @@
       <recent name="dataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringStream">
+  <component name="RunManager" selected="Application.largestArrayNumber">
     <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter17.ArrayPractice" />
       <module name="Java programming" />
@@ -129,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToDesktop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15.WriteToDesktop" />
+    <configuration name="largestArrayNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.largestArrayNumber" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15.*" />
+          <option name="PATTERN" value="com.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.largestArrayNumber" />
         <item itemvalue="Application.StringStream" />
         <item itemvalue="Application.ArrayPractice" />
         <item itemvalue="Application.MulitiplyEvenNumbers" />
         <item itemvalue="Application.StreamReduce" />
-        <item itemvalue="Application.WriteToDesktop" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +219,11 @@
       <workItem from="1663499731394" duration="6387000" />
       <workItem from="1663590973214" duration="5584000" />
       <workItem from="1663756909740" duration="265000" />
-      <workItem from="1663914204549" duration="8202000" />
+      <workItem from="1663914204549" duration="8783000" />
+      <workItem from="1664224080009" duration="2954000" />
+      <workItem from="1666507753314" duration="8270000" />
+      <workItem from="1666695116104" duration="589000" />
+      <workItem from="1666705666154" duration="1217000" />
     </task>
     <task id="LOCAL-00004" summary="built a calculator">
       <created>1656183587047</created>
