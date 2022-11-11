@@ -54,7 +54,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/johnnaas/IdeaProjects/Java programming&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/johnnaas/Downloads/unicorns-store-master&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -64,6 +64,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter_eight8" />
       <recent name="chapterSeven" />
       <recent name="com" />
       <recent name="array" />
@@ -79,13 +80,13 @@
       <recent name="dataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.largestArrayNumber">
-    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.ArrayPractice" />
+  <component name="RunManager" selected="Application.Board">
+    <configuration name="ArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ArrayApp" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter17.*" />
+          <option name="PATTERN" value="DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,38 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MulitiplyEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.MulitiplyEvenNumbers" />
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe.Board" />
       <module name="Java programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.StreamReduce" />
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.StringStream" />
-      <module name="Java programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter17.*" />
+          <option name="PATTERN" value="TicTacToe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +120,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.map" />
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reductions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.reductions" />
+      <module name="Java programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Board" />
+        <item itemvalue="Application.ArrayApp" />
+        <item itemvalue="Application.map" />
+        <item itemvalue="Application.reductions" />
         <item itemvalue="Application.largestArrayNumber" />
-        <item itemvalue="Application.StringStream" />
-        <item itemvalue="Application.ArrayPractice" />
-        <item itemvalue="Application.MulitiplyEvenNumbers" />
-        <item itemvalue="Application.StreamReduce" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,10 @@
       <workItem from="1664224080009" duration="2954000" />
       <workItem from="1666507753314" duration="8270000" />
       <workItem from="1666695116104" duration="589000" />
-      <workItem from="1666705666154" duration="1217000" />
+      <workItem from="1666705666154" duration="2308000" />
+      <workItem from="1666858419372" duration="1399000" />
+      <workItem from="1667918117773" duration="20994000" />
+      <workItem from="1668109226116" duration="4550000" />
     </task>
     <task id="LOCAL-00004" summary="built a calculator">
       <created>1656183587047</created>
